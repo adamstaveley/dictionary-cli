@@ -3,7 +3,7 @@
 Search for infomation about words from the command line. 
 
 ```
-usage: dictionary.py [-h] [-d] [-t] [-p] [-eg] [-fr] <phrase>
+usage: dictionary.py [-h] [-d] [-t] [-p] [-fr] [-de] <phrase>
 
 positional arguments [required]:
   phrase
@@ -13,8 +13,8 @@ optional arguments:
   -d          only show definition
   -t          search thesaurus
   -p          play pronunciation
-  -eg         show example sentance
   -fr         show French translation
+  -de         show German translation
 ```
 
 Notes:
